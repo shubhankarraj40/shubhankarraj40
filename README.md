@@ -1,6 +1,6 @@
-## Hi there 👋 <br/> 
-<h1>I am currently a second-year undergraduate student pursuing a degree in Computer Science at SRM University. As a passionate learner, I am always eager to explore new technology. I like coding where I am more into C and C++, I am a beginner and currently learning the concepts of question-solving.
-In my free time, I like playing Cricket and other games.</h1>
+<h1> Hi there 👋 </h1> <br/> 
+I am currently a second-year undergraduate student pursuing a degree in Computer Science at SRM University. As a passionate learner, I am always eager to explore new technology. I like coding where I am more into C and C++, I am a beginner and currently learning the concepts of question-solving.
+In my free time, I like playing Cricket and other games.
 
 <!--
 **shubhankarraj40/shubhankarraj40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
